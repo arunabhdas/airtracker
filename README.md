@@ -4,10 +4,14 @@
 # Steps
 
 
-# Bootstrap niftyapp
+## Bootstrap niftyapp
 
+### Boostrap
 npx degit sveltejs/template niftyapp
 
+### Install svero
+npm install --save svero
 
-Running 
+## Running 
+
 
